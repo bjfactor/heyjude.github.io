@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&family=Work+Sans:wght@300&display=swap');
+
+.navbar-brand {
+    font-family: 'Work Sans';
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    color: black;
+    margin-right: 20px;
+}
